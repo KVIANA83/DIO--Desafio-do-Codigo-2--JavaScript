@@ -1,6 +1,6 @@
-# DIO--Desafio-do-Codigo-2--JavaScript
+# DIO--Desafio-de-Código-JavaScript
 
-**Desafios do Código do bootcamp Desenvolvimento de Jogos**
+**Desafios de Código do bootcamp Desenvolvimento de Jogos**
 - Tomada de Decisão;
 - Academia de Magia;
 - Combinando Nome de Pokemon;
@@ -14,9 +14,14 @@
 
 
 
-**Desafios do Código do bootcamp Desenvolvimento Frontend com Angular**
+**Desafios de Código do bootcamp Desenvolvimento Frontend com Angular**
 - Simulando Cálculo de Juros; 
 - Conversor de Moedas; 
 - Validando Número de Contas; 
 - Agendamento de Pagamento; 
 - Verificação de Saldo Bancário;
+- DIO Bank;
+- Comparando Contas Bancárias;
+- Registro de Transações Bancárias;
+- DIO Bank 2;
+- Calculadora de Montante com Juros;
