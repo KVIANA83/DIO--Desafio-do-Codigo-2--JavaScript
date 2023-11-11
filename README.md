@@ -8,4 +8,8 @@
 - Combatendo Monstros;
 
 **Desafios do Código do bootcamp Desenvolvimento Frontend com Angular**
+- Simulando Cálculo de Juros; 
+- Conversor de Moedas; 
+- Validando Número de Contas; 
+- Agendamento de Pagamento; 
 - 
