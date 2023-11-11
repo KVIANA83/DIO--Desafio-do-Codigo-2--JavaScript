@@ -6,6 +6,13 @@
 - Combinando Nome de Pokemon;
 - Gerenciando Itens Mágicos;
 - Combatendo Monstros;
+- A Jornada Heroica;
+- Gerando Biomas em Mundo de Bloco;
+- Capturando Pokémons;
+- Pontuando Experiência XP;
+- Coletando Tesouros; 
+
+
 
 **Desafios do Código do bootcamp Desenvolvimento Frontend com Angular**
 - Simulando Cálculo de Juros; 
