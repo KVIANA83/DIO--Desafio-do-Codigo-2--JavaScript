@@ -19,4 +19,4 @@
 - Conversor de Moedas; 
 - Validando Número de Contas; 
 - Agendamento de Pagamento; 
-- 
+- Verificação de Saldo Bancário;
