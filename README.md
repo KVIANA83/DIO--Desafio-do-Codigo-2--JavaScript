@@ -7,5 +7,5 @@
 - Gerenciando Itens Mágicos;
 - Combatendo Monstros;
 
-**Desafios do Código do bootcamp 
+**Desafios do Código do bootcamp Desenvolvimento Frontend com Angular**
 - 
